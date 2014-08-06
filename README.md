@@ -9,7 +9,6 @@ There might be a few more; I'm not sure of the provenience of these RPMS:
 * Term-ANSIColor
 * perl-Encode-Locale
 * perl-Hash-Merge
-* perl-MooseX-Types-Path-Class
 * perl-Path-Class
 * perl-String-ShellQuote
 * perl-namespace-autoclean
